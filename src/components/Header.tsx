@@ -27,6 +27,12 @@ export default function Header() {
               AI Demo
             </Link>
             <Link 
+              href="/data-dashboard" 
+              className="text-slate-600 hover:text-slate-900 px-3 py-2 text-sm font-medium transition-colors"
+            >
+              Data Dashboard
+            </Link>
+            <Link 
               href="/about" 
               className="text-slate-600 hover:text-slate-900 px-3 py-2 text-sm font-medium transition-colors"
             >
