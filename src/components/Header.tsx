@@ -21,6 +21,12 @@ export default function Header() {
               Services
             </Link>
             <Link 
+              href="/ai-demo" 
+              className="text-slate-600 hover:text-slate-900 px-3 py-2 text-sm font-medium transition-colors"
+            >
+              AI Demo
+            </Link>
+            <Link 
               href="/about" 
               className="text-slate-600 hover:text-slate-900 px-3 py-2 text-sm font-medium transition-colors"
             >
