@@ -15,7 +15,7 @@ export default function HeroSection() {
 
           {/* Subheadline */}
           <p className="text-xl md:text-2xl text-slate-600 mb-8 max-w-4xl mx-auto leading-relaxed">
-            We help you leverage the power of AI and automation to boost efficiency and drive growth
+            hell yeah!
           </p>
 
           {/* Call-to-Action Button */}
